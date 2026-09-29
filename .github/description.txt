@@ -1,0 +1,1 @@
+A Core Bluetooth heart-rate dashboard with defensive GATT parsing, connection timeouts, live charts, battery readings, and labelled demo mode.

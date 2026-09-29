@@ -1,0 +1,3 @@
+# Data and privacy
+
+Bluetooth is initialized only when the user chooses Scan. Demo mode does not request Bluetooth access. Nearby sensor names, transient Core Bluetooth identifiers, signal strength, and measurements remain in memory. The app makes no internet requests and contains no analytics. Exported CSV contains timestamps, heart rate, RR intervals, and a demo/Bluetooth label; it does not contain device identifiers. Export files are stored temporarily for the system share sheet and may remain until iOS clears temporary storage. Exported health-related readings should be shared deliberately.
